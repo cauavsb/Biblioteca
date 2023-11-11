@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "somEW+ch+XHmAOoin1gNHm1bd7wKOMMr1x9+NnVEXc4MaY5CQOfpQQNZ6W5tKL9s0E9iy8HTWQf8GVT5+2gy8w==",
+  "dgSpecHash": "xJHPA/hyPOGhK/l9CGmyjUYopScT6fz7q6ENr6tFeq/OhIk7AQ5YXq1jgm8qBVGApuh3lEFrIdulFefkDirFrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mundial do Palmeiras\\Downloads\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "C:\\Users\\Mundial do Palmeiras\\Documents\\senac\\atividade_2\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mundial do Palmeiras\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\Mundial do Palmeiras\\.nuget\\packages\\microsoft.entityframeworkcore\\3.0.0\\microsoft.entityframeworkcore.3.0.0.nupkg.sha512",

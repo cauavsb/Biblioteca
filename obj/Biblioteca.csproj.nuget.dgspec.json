@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mundial do Palmeiras\\Downloads\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\Mundial do Palmeiras\\Documents\\senac\\atividade_2\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mundial do Palmeiras\\Downloads\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\Mundial do Palmeiras\\Documents\\senac\\atividade_2\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mundial do Palmeiras\\Downloads\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Mundial do Palmeiras\\Documents\\senac\\atividade_2\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\Mundial do Palmeiras\\Downloads\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\Mundial do Palmeiras\\Documents\\senac\\atividade_2\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\Mundial do Palmeiras\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mundial do Palmeiras\\Downloads\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\Mundial do Palmeiras\\Documents\\senac\\atividade_2\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mundial do Palmeiras\\AppData\\Roaming\\NuGet\\NuGet.Config"
